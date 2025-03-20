@@ -1,0 +1,2 @@
+Esse é o segundo arquivo de teste para o leitor de arquivos.
+Espero que também consiga ler o conteúdo deste arquivo.

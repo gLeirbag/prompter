@@ -1,0 +1,2 @@
+Isso é um arquivo de teste para o leitor de arquivos.
+Será que ele consegue ler o conteúdo deste arquivo?
